@@ -1,0 +1,7 @@
+D:\Year(2)\C#\Advance topics\List_Generic\List_Generic\bin\Debug\List_Generic.exe.config
+D:\Year(2)\C#\Advance topics\List_Generic\List_Generic\bin\Debug\List_Generic.exe
+D:\Year(2)\C#\Advance topics\List_Generic\List_Generic\bin\Debug\List_Generic.pdb
+D:\Year(2)\C#\Advance topics\List_Generic\List_Generic\obj\Debug\List_Generic.csproj.AssemblyReference.cache
+D:\Year(2)\C#\Advance topics\List_Generic\List_Generic\obj\Debug\List_Generic.csproj.CoreCompileInputs.cache
+D:\Year(2)\C#\Advance topics\List_Generic\List_Generic\obj\Debug\List_Generic.exe
+D:\Year(2)\C#\Advance topics\List_Generic\List_Generic\obj\Debug\List_Generic.pdb
