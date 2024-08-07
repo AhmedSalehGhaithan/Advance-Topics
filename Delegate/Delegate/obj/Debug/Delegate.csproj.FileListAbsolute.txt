@@ -1,0 +1,7 @@
+D:\Year (2)\Asp\Advance Topics\Delegate\Delegate\bin\Debug\Delegate.exe.config
+D:\Year (2)\Asp\Advance Topics\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Year (2)\Asp\Advance Topics\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Year (2)\Asp\Advance Topics\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\Advance Topics\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\Advance Topics\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\Year (2)\Asp\Advance Topics\Delegate\Delegate\obj\Debug\Delegate.pdb

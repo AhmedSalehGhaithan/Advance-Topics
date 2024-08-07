@@ -1,0 +1,7 @@
+D:\Year (2)\Asp\Advance Topics\Enumerators_enumrable\Enumerators_enumrable\bin\Debug\Enumerators_enumrable.exe.config
+D:\Year (2)\Asp\Advance Topics\Enumerators_enumrable\Enumerators_enumrable\bin\Debug\Enumerators_enumrable.exe
+D:\Year (2)\Asp\Advance Topics\Enumerators_enumrable\Enumerators_enumrable\bin\Debug\Enumerators_enumrable.pdb
+D:\Year (2)\Asp\Advance Topics\Enumerators_enumrable\Enumerators_enumrable\obj\Debug\Enumerators_enumrable.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\Advance Topics\Enumerators_enumrable\Enumerators_enumrable\obj\Debug\Enumerators_enumrable.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\Advance Topics\Enumerators_enumrable\Enumerators_enumrable\obj\Debug\Enumerators_enumrable.exe
+D:\Year (2)\Asp\Advance Topics\Enumerators_enumrable\Enumerators_enumrable\obj\Debug\Enumerators_enumrable.pdb

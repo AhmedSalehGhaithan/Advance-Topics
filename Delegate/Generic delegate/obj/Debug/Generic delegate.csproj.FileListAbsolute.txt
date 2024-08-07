@@ -1,0 +1,7 @@
+D:\Year (2)\Asp\Advance Topics\Delegate\Generic delegate\bin\Debug\Generic delegate.exe.config
+D:\Year (2)\Asp\Advance Topics\Delegate\Generic delegate\bin\Debug\Generic delegate.exe
+D:\Year (2)\Asp\Advance Topics\Delegate\Generic delegate\bin\Debug\Generic delegate.pdb
+D:\Year (2)\Asp\Advance Topics\Delegate\Generic delegate\obj\Debug\Generic delegate.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\Advance Topics\Delegate\Generic delegate\obj\Debug\Generic delegate.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\Advance Topics\Delegate\Generic delegate\obj\Debug\Generic delegate.exe
+D:\Year (2)\Asp\Advance Topics\Delegate\Generic delegate\obj\Debug\Generic delegate.pdb
